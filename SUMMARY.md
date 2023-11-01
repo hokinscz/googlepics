@@ -8,6 +8,9 @@
 
 * [📘 PRAVIDLA](ooc/pravidla.md)
 * [😎 CO MŮŽETE NAJÍT JAK NELEGAL](ooc/co-muzete-najit-jak-nelegal.md)
+* [🎟 VIP](ooc/vip/README.md)
+  * [🎫 Systém](ooc/vip/system.md)
+  * [INFORMACE](ooc/vip/informace.md)
 
 ## IC
 
@@ -21,3 +24,5 @@
   * [🏨 Úřad](ic/.github/urad/README.md)
     * [🛠 PRÁCE](ic/.github/urad/prace.md)
     * [📑 Dokumenty](ic/.github/urad/dokumenty.md)
+
+## Group 1
