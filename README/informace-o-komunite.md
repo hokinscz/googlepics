@@ -1,0 +1,2 @@
+# ℹ INFORMACE O KOMUNITĚ
+
