@@ -11,4 +11,4 @@ Platbu volíte sami dobrovolně na svojí fyzickou osobu ,nikdo vás nenabádá 
 
 
 
-Zatím nemáme web přes ,kterej by jste si to mohl(a) zakoupit. Proto kontaktujte (ticket).&#x20;
+Zatím nemáme web přes ,kteréj by jste si to mohl(a) zakoupit automatizovaně. Proto kontaktujte (ticket).&#x20;
