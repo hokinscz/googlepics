@@ -17,7 +17,7 @@ Příkazy:
 
 /me - Nahrazuje animaci.
 
-/do -  Tázací ,co vidím, co slyším, co mi je, jak se cítím, jak vypadám, co vidím v databázi.
+/do -  Například: Tázací ,co vidím, co slyším, co mi je, jak se cítím, jak vypadám, co vidím v databázi.
 
 (Nesmí se lhát /do musíte interaktovat s vaším lorem | Příklad pokud bude policista napíše /do Je pan hledaný. Vy napíšete například (Ano je hledaný)&#x20;
 
