@@ -10,7 +10,7 @@
 * [😎 CO MŮŽETE NAJÍT JAK NELEGAL](ooc/co-muzete-najit-jak-nelegal.md)
 * [🎟 VIP](ooc/vip/README.md)
   * [🎫 Systém](ooc/vip/system.md)
-  * [INFORMACE](ooc/vip/informace.md)
+  * [ℹ INFORMACE](ooc/vip/informace.md)
 
 ## IC
 

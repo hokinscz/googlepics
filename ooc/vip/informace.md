@@ -1,8 +1,9 @@
 ---
 description: Baráky, vozidla a podobně
+coverY: 0
 ---
 
-# INFORMACE
+# ℹ INFORMACE
 
 Mohu si koupit barák? Ano určitě pokud nechcete dlouho vydělávát na barák (mlo,ymap...) či náš bytovej systém na nějakým určitým místě vybran vámi.
 
