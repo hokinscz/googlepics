@@ -6,7 +6,7 @@
 
 ## 🎭 OOC
 
-* [📘 PRAVIDLA](ooc/pravidla.md)
+* [📘 PRAVIDLA HRY](ooc/pravidla-hry.md)
 * [😎 CO MŮŽETE NAJÍT JAK NELEGAL](ooc/co-muzete-najit-jak-nelegal.md)
 * [🎟 VIP](ooc/vip/README.md)
   * [🎫 Systém](ooc/vip/system.md)
