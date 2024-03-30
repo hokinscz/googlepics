@@ -3,9 +3,9 @@ description: Baráky, vozidla a podobně
 coverY: 0
 ---
 
-# ℹ INFORMACE
+# ℹ️ INFORMACE
 
-Mohu si koupit barák? Ano určitě pokud nechcete dlouho vydělávát na barák (mlo,ymap...) či náš bytovej systém na nějakým určitým místě vybran vámi.
+Mohu si koupit barák? Ano určitě pokud nechcete dlouho vydělávát na barák či náš bytovej systém na nějakým určitým místě vybran vámi.
 
 
 
@@ -21,6 +21,6 @@ Dají se koupit Que pointy? Ano dá se musíte využít náš ticket.
 
 
 
-Vaše akce se ,už nedají vrátit. Je to vaše vůle.
+Pokud pošlete transakci vaše akce se ,už nedají vrátit. Je to vaše vůle a navlastní riziko nejsme za vás zodpovědni. Trvání dodání balíčku trvá většinou vyřešení po ticketu ze s staff týmem dej te tomu 5 minut +-, jelikož máme i jiné starosti.
 
 &#x20;
