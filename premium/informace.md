@@ -21,6 +21,6 @@ Dají se koupit Que pointy? Ano dá se musíte využít náš ticket.
 
 
 
-Pokud pošlete transakci vaše akce se ,už nedají vrátit. Je to vaše vůle a navlastní riziko nejsme za vás zodpovědni. Trvání dodání balíčku trvá většinou vyřešení po ticketu ze s staff týmem dej te tomu 5 minut +-, jelikož máme i jiné starosti.
+Pokud pošlete transakci vaše akce se ,už nedají vrátit. Je to vaše vůle a navlastní riziko nejsme za vás zodpovědni. Trvání dodání balíčku trvá většinou vyřešení po ticketu ze s staff týmem dej te tomu 5 minut +-, jelikož máme i jiné starosti nemáme zjednodušenej vip systém přes webovou stránku na tu si počkáte na magix 2.0&#x20;
 
 &#x20;

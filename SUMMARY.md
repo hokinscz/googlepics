@@ -13,7 +13,7 @@
 ## PREMIUM
 
 * [ℹ️ INFORMACE](premium/informace.md)
-* [🎟️ VIP](premium/vip.md)
+* [🎟️ VIP](ooc/vip.md)
 * [🎫 Systém](premium/system.md)
 
 ## IC
