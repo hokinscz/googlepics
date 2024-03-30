@@ -14,7 +14,7 @@
 
 * [ℹ️ INFORMACE](premium/informace.md)
 * [🎟️ VIP](ooc/vip.md)
-* [🎫 Systém](premium/system.md)
+* [🎫 Zatím nedostupné-Systém](premium/zatim-nedostupne-system.md)
 
 ## IC
 
