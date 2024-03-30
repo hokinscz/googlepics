@@ -1,8 +1,7 @@
 ---
-cover: .gitbook/assets/esxLogo.png
 coverY: 0
 ---
 
-# 🌐 MAGIX
+# 📖 Pravidla
 
-##
+{% embed url="https://docs.google.com/document/d/1g0cjhdIBNBCcmngJDyWJxju3tLnp9_tc4mAT01exXig/edit?usp=sharing" %}
